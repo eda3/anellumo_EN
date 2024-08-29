@@ -1,1 +1,401 @@
-[]
+[
+    {
+        "input": "2H",
+        "aliases": [
+            "2C"
+        ]
+    },
+    {
+        "input": "2L",
+        "aliases": [
+            "2A"
+        ]
+    },
+    {
+        "input": "2M",
+        "aliases": [
+            "2B"
+        ]
+    },
+    {
+        "input": "2U",
+        "aliases": []
+    },
+    {
+        "input": "66H",
+        "aliases": [
+            "66C",
+            "DH",
+            "DC"
+        ]
+    },
+    {
+        "input": "66L",
+        "aliases": [
+            "66A",
+            "DL",
+            "DA"
+        ]
+    },
+    {
+        "input": "66M",
+        "aliases": [
+            "66B",
+            "DM",
+            "DB"
+        ]
+    },
+    {
+        "input": "cH",
+        "aliases": [
+            "H",
+            "cC",
+            "5H",
+            "C",
+            "5C"
+        ]
+    },
+    {
+        "input": "cL",
+        "aliases": [
+            "L",
+            "cA",
+            "5L",
+            "A",
+            "5A"
+        ]
+    },
+    {
+        "input": "cM",
+        "aliases": [
+            "M",
+            "cB",
+            "5M",
+            "B",
+            "5B"
+        ]
+    },
+    {
+        "input": "cXX",
+        "aliases": [
+            "XX",
+            "cLL",
+            "cMM",
+            "cHH",
+            "LL",
+            "MM",
+            "HH",
+            "cAA",
+            "cBB",
+            "cCC",
+            "AA",
+            "BB",
+            "CC"
+        ]
+    },
+    {
+        "input": "cXX6H",
+        "aliases": [
+            "XX6H",
+            "cXX6C",
+            "cLL6H",
+            "cMM6H",
+            "cHH6H",
+            "XX6C",
+            "LL6H",
+            "MM6H",
+            "HH6H",
+            "cCC6C",
+            "CC6C",
+            "cAA6C",
+            "cBB6C",
+            "AA6C",
+            "BB6C"
+        ]
+    },
+    {
+        "input": "cXX6M",
+        "aliases": [
+            "XX6M",
+            "cXX6B",
+            "cLL6M",
+            "cMM6M",
+            "cHH6M",
+            "XX6B",
+            "LL6M",
+            "MM6M",
+            "HH6M",
+            "cBB6B",
+            "BB6B",
+            "cAA6B",
+            "cCC6B",
+            "AA6B",
+            "CC6B"
+        ]
+    },
+    {
+        "input": "cXXX",
+        "aliases": [
+            "XXX",
+            "cLLL",
+            "cMMM",
+            "cHHH",
+            "LLL",
+            "MMM",
+            "HHH",
+            "cAAA",
+            "cBBB",
+            "cCCC",
+            "AAA",
+            "BBB",
+            "CCC"
+        ]
+    },
+    {
+        "input": "fH",
+        "aliases": [
+            "fC"
+        ]
+    },
+    {
+        "input": "fL",
+        "aliases": [
+            "fA"
+        ]
+    },
+    {
+        "input": "fM",
+        "aliases": [
+            "fB"
+        ]
+    },
+    {
+        "input": "jH",
+        "aliases": [
+            "jC"
+        ]
+    },
+    {
+        "input": "jL",
+        "aliases": [
+            "jA"
+        ]
+    },
+    {
+        "input": "jM",
+        "aliases": [
+            "jB"
+        ]
+    },
+    {
+        "input": "jU",
+        "aliases": []
+    },
+    {
+        "input": "214H",
+        "aliases": [
+            "214C"
+        ]
+    },
+    {
+        "input": "214H5X",
+        "aliases": [
+            "214C5X",
+            "214H5L",
+            "214H5M",
+            "214H5H",
+            "214C5C",
+            "214C5A",
+            "214C5B"
+        ]
+    },
+    {
+        "input": "214H6X",
+        "aliases": [
+            "214C6X",
+            "214H6L",
+            "214H6M",
+            "214H6H",
+            "214C6C",
+            "214C6A",
+            "214C6B"
+        ]
+    },
+    {
+        "input": "214L",
+        "aliases": [
+            "214A"
+        ]
+    },
+    {
+        "input": "214L5X",
+        "aliases": [
+            "214A5X",
+            "214L5L",
+            "214L5M",
+            "214L5H",
+            "214A5A",
+            "214A5B",
+            "214A5C"
+        ]
+    },
+    {
+        "input": "214L6X",
+        "aliases": [
+            "214A6X",
+            "214L6L",
+            "214L6M",
+            "214L6H",
+            "214A6A",
+            "214A6B",
+            "214A6C"
+        ]
+    },
+    {
+        "input": "214M",
+        "aliases": [
+            "214B"
+        ]
+    },
+    {
+        "input": "214M5X",
+        "aliases": [
+            "214B5X",
+            "214M5L",
+            "214M5M",
+            "214M5H",
+            "214B5B",
+            "214B5A",
+            "214B5C"
+        ]
+    },
+    {
+        "input": "214M6X",
+        "aliases": [
+            "214B6X",
+            "214M6L",
+            "214M6M",
+            "214M6H",
+            "214B6B",
+            "214B6A",
+            "214B6C"
+        ]
+    },
+    {
+        "input": "214U",
+        "aliases": []
+    },
+    {
+        "input": "22H",
+        "aliases": [
+            "22C"
+        ]
+    },
+    {
+        "input": "22L",
+        "aliases": [
+            "22A"
+        ]
+    },
+    {
+        "input": "22M",
+        "aliases": [
+            "22B"
+        ]
+    },
+    {
+        "input": "22U",
+        "aliases": []
+    },
+    {
+        "input": "236H",
+        "aliases": [
+            "236C"
+        ]
+    },
+    {
+        "input": "236L",
+        "aliases": [
+            "236A"
+        ]
+    },
+    {
+        "input": "236M",
+        "aliases": [
+            "236B"
+        ]
+    },
+    {
+        "input": "236U",
+        "aliases": []
+    },
+    {
+        "input": "623H",
+        "aliases": [
+            "623C"
+        ]
+    },
+    {
+        "input": "623L",
+        "aliases": [
+            "623A"
+        ]
+    },
+    {
+        "input": "623M",
+        "aliases": [
+            "623B"
+        ]
+    },
+    {
+        "input": "623U",
+        "aliases": []
+    },
+    {
+        "input": "j22H",
+        "aliases": [
+            "j22C"
+        ]
+    },
+    {
+        "input": "j22L",
+        "aliases": [
+            "j22A"
+        ]
+    },
+    {
+        "input": "j22M",
+        "aliases": [
+            "j22B"
+        ]
+    },
+    {
+        "input": "j22U",
+        "aliases": []
+    },
+    {
+        "input": "236236H",
+        "aliases": [
+            "236236C"
+        ]
+    },
+    {
+        "input": "236236U",
+        "aliases": []
+    },
+    {
+        "input": "5U",
+        "aliases": []
+    },
+    {
+        "input": "5U6X",
+        "aliases": [
+            "5U6L",
+            "5U6M",
+            "5U6H",
+            "5U6A",
+            "5U6B",
+            "5U6C"
+        ]
+    }
+]
