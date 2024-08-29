@@ -1,0 +1,386 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Lancelot_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/12/GBVSR_Lancelot_2H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lancelot_2H_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Lancelot_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Lancelot_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Lancelot_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/56/GBVSR_Lancelot_2M_Hitbox.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Lancelot_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Lancelot_2U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5L",
+  "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Lancelot_5L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Lancelot_5L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Lancelot_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Lancelot_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Lancelot_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Lancelot_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Lancelot_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Lancelot_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_cH1.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Lancelot_cH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Lancelot_cH_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Lancelot_cH_Hitbox_3.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Lancelot_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Lancelot_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/9/99/GBVSR_Lancelot_cXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Lancelot_cXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lancelot_cXX6H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lancelot_cXX6H_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Lancelot_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Lancelot_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Lancelot_cXXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Lancelot_cXXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/4/44/GBVSR_Lancelot_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/71/GBVSR_Lancelot_fH_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Lancelot_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Lancelot_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Lancelot_jH1.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Lancelot_jH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Lancelot_jH_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/a/af/GBVSR_Lancelot_jH_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Lancelot_jH_Hitbox_4.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lancelot_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Lancelot_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Lancelot_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Lancelot_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Lancelot_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b9/GBVSR_Lancelot_BC_Hitbox.png"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Lancelot_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Lancelot_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVSR_Lancelot_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Lancelot_LU_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lancelot_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Lancelot_5MH_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Lancelot_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Lancelot_RC_Hitbox.png"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214H~4H",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Lancelot_214X-4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lancelot_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214X~4X",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Lancelot_214X-4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214X~4X Ender",
+  "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Lancelot_214X-4X-4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Lancelot_214X4X4X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVSR_Lancelot_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Lancelot_22U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/75/GBVSR_Lancelot_22U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22[X]",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Lancelot_22X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lancelot_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Lancelot_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Lancelot_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lancelot_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Lancelot_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Lancelot_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lancelot_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Lancelot_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Lancelot_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Lancelot_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Lancelot_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Lancelot_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/84/GBVSR_Lancelot_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/69/GBVSR_Lancelot_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/84/GBVSR_Lancelot_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/69/GBVSR_Lancelot_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/84/GBVSR_Lancelot_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/69/GBVSR_Lancelot_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Lancelot_623U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Lancelot_623U_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Lancelot_236236H_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Lancelot_236236H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Lancelot_236236H_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Lancelot_236236U_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Lancelot_236236U_Hitbox.png"
+  ]
+},
+	{
+  "input": "j236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Lancelot_236236U_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Lancelot_236236U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Lancelot_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Lancelot_5U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5U~2U",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Lancelot_5U-2U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U~4U",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_5U-4U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U~5U",
+  "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Lancelot_5U-5U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U~6U",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_5U-6U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Lancelot_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Lancelot_jU_Hitbox.png"
+  ]
+}
+]

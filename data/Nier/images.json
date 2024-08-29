@@ -1,0 +1,436 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Nier_2H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2H [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/7/78/GBVSR_Nier_D2H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Nier_2L.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Nier_2M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2M [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Nier_D2M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Nier_2U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "2U [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Nier_D2U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/4/48/GBVSR_Nier_66H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "66H [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Nier_D66H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Nier_66L.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Nier_66M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVSR_Nier_cH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cH [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Nier_DcH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Nier_cL.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Nier_cM.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cM [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Nier_DcM.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Nier_cXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Nier_cXX6H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Nier_cXX6M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Nier_cXXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Nier_fH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fH [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Nier_DfH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Nier_fL.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Nier_fM.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fM[d]",
+  "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVSR_Nier_DfM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Nier_fMd_Hitbox.png"
+  ]
+},
+	{
+  "input": "j4U",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "j6U",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/d/db/GBVSR_Nier_jH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jH [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/4/46/GBVSR_Nier_DjH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Nier_jL.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Nier_jM.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jM [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Nier_DjM.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Nier_jU.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jU [d]",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Nier_BraveCounter.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Nier_AirThrow.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "jLU [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Nier_AirThrow.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Nier_Throw.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "LU [d]",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Nier_Throw.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Nier_5MH.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/6/62/GBVSR_Nier_RagingChain.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Nier_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Nier_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Nier_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Nier_214U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Nier_22X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Nier_22X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Nier_22X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVSR_Nier_22U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Nier_236X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Nier_236X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Nier_236X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Nier_236U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Nier_623X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Nier_623X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Nier_623X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Nier_623U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214214H",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Nier_214214H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Nier_236236H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Nier_236236U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Nier_5UCharge.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5[U]",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Nier_5UCharge.png",
+  "hitbox_img": [
+    ""
+  ]
+}
+]

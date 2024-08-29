@@ -1,0 +1,389 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ferry_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Ferry_2H_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Ferry_2H_Hitbox2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Ferry_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/09/GBVSR_Ferry_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Ferry_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Ferry_2M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/4/46/GBVSR_Ferry_2M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_Ferry_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Ferry_2U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Ferry_2U_Hitbox2.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Ferry_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/26/GBVSR_Ferry_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Ferry_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Ferry_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ferry_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Ferry_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Ferry_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Ferry_cH_Hitbox.png"
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Ferry_cL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Ferry_cL_Hitbox.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Ferry_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/30/GBVSR_Ferry_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Ferry_cXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Ferry_cXX6H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Ferry_cXX6M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ferry_cXXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Ferry_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Ferry_fH_Hitbox.png"
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Ferry_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Ferry_fL_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Ferry_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/83/GBVSR_Ferry_fM_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Ferry_fM_Hitbox2.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Ferry_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/06/GBVSR_Ferry_jH_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Ferry_jH_Hitbox2.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/6/66/GBVSR_Ferry_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Ferry_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ferry_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/72/GBVSR_Ferry_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "4LU",
+  "move_img": "https://www.dustloop.com/wiki/images/6/66/GBVSR_Ferry_BackThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Ferry_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Ferry_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ferry_BC_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVSR_Ferry_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Ferry_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/3/32/GBVSR_Ferry_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Ferry_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/8/88/GBVSR_Ferry_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Ferry_5MH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/6/61/GBVSR_Ferry_5MH_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ferry_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Ferry_6MH_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Ferry_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ferry_214H_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Ferry_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/07/GBVSR_Ferry_214L_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Ferry_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Ferry_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Ferry_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/24/GBVSR_Ferry_214U_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Ferry_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Ferry_22X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Ferry_22X_Hitbox_3.png"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Ferry_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Ferry_22X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Ferry_22X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Ferry_22X_Hitbox_3.png"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Ferry_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Ferry_22X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Ferry_22X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Ferry_22X_Hitbox_3.png"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Ferry_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Ferry_22U_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Ferry_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/57/GBVSR_Ferry_236L_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Ferry_236L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Ferry_236L_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Ferry_236L_Hitbox_4.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Ferry_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/57/GBVSR_Ferry_236L_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Ferry_236L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Ferry_236L_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Ferry_236L_Hitbox_4.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Ferry_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/57/GBVSR_Ferry_236L_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Ferry_236L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Ferry_236L_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Ferry_236L_Hitbox_4.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVSR_Ferry_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Ferry_236U_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "236X4X",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Ferry_236X-4X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236XX",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Ferry_236X-X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Ferry_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Ferry_623H_Hitbox.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Ferry_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Ferry_623L_Hitbox.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Ferry_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/73/GBVSR_Ferry_623M_Hitbox.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ferry_623U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Ferry_623U_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "214214H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Ferry_214214H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Ferry_236236H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/07/GBVSR_Ferry_236236H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Ferry_236236U_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Ferry_236236U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/82/GBVSR_Ferry_236236U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Ferry_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Ferry_5U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Ferry_5U_Hitbox2.png"
+  ]
+},
+	{
+  "input": "j4U",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Ferry_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Ferry_j4U_Hitbox.png"
+  ]
+},
+	{
+  "input": "j5U/6U",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Ferry_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Ferry_jU_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Ferry_j6U_Hitbox.png"
+  ]
+},
+	{
+  "input": "j7U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Ferry_j8U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "j8U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Ferry_j8U.png",
+  "hitbox_img": [
+    ""
+  ]
+}
+]

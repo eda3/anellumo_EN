@@ -1,0 +1,401 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Grimnir_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Grimnir_2H_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Grimnir_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/82/GBVSR_Grimnir_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Grimnir_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/56/GBVSR_Grimnir_2M_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Grimnir_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/16/GBVSR_Grimnir_2U_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Grimnir_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Grimnir_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Grimnir_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Grimnir_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Grimnir_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Grimnir_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Grimnir_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Grimnir_c5H_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/0/04/GBVSR_Grimnir_cL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Grimnir_c5L_Hitbox.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Grimnir_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Grimnir_c5M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Grimnir_cXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Grimnir_cXX6H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Grimnir_cXX6M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Grimnir_cXXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Grimnir_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Grimnir_f5H_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Grimnir_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Grimnir_f5L_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/4/45/GBVSR_Grimnir_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/95/GBVSR_Grimnir_f5M_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Grimnir_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Grimnir_jH_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Grimnir_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Grimnir_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Grimnir_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/de/GBVSR_Grimnir_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Grimnir_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Grimnir_jU_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Grimnir_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Grimnir_BC_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Grimnir_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/39/GBVSR_Grimnir_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Grimnir_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Grimnir_GroundThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Grimnir_5MH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Grimnir_5MH_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/22/GBVSR_Grimnir_RC.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/47/GBVSR_Grimnir_RC_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Grimnir_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/61/GBVSR_Grimnir_214U_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Grimnir_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Grimnir_22U_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236H4X",
+  "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236H6X",
+  "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236H8X",
+  "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Grimnir_236X8X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Grimnir_236X8X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236X4X",
+  "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236X6X",
+  "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Grimnir_236X6X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Grimnir_236X6X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "236X8X",
+  "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Grimnir_236X8X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Grimnir_236X8X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Grimnir_623U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_623U_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "j214H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "j214L",
+  "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "j214M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "j214U",
+  "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Grimnir_j214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Grimnir_j214U_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "214214H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Grimnir_214214H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/78/GBVSR_Grimnir_214214H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Grimnir_236236H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Grimnir_236236H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Grimnir_SSBA2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Grimnir_236236U_Hitbox.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Grimnir_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Grimnir_236U_Hitbox_1.png;"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Grimnir_5U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "XU",
+  "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Grimnir_GaleDash.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/af/GBVSR_Grimnir_GaleDash_Hitbox.png"
+  ]
+}
+]

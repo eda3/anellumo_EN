@@ -1,0 +1,398 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Ladiva_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Ladiva_2H_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Ladiva_2H_Hitbox2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Ladiva_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Ladiva_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Ladiva_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/73/GBVSR_Ladiva_2M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Ladiva_2M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Ladiva_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Ladiva_2U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Ladiva_2U_Hitbox2.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/7/79/GBVSR_Ladiva_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Ladiva_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Ladiva_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Ladiva_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Ladiva_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Ladiva_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Ladiva_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Ladiva_cH_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Ladiva_cH_Hitbox2.png"
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Ladiva_cL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ladiva_cL_Hitbox.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Ladiva_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Ladiva_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Ladiva_cXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Ladiva_cXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_cXX6H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Ladiva_cXX6H_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Ladiva_cXX6M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Ladiva_cXX6M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Ladiva_cXXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Ladiva_cXXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d1/GBVSR_Ladiva_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Ladiva_fH_Hitbox.png"
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Ladiva_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/63/GBVSR_Ladiva_fL_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Ladiva_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Ladiva_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVSR_Ladiva_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Ladiva_jH_Hitbox.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Ladiva_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Ladiva_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Ladiva_jM_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/0/04/GBVSR_Ladiva_jM_Hitbox2.png"
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Ladiva_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Ladiva_jU_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVSR_Ladiva_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Ladiva_BraveCounter_Hitbox.png"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Ladiva_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/56/GBVSR_Ladiva_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/0/07/GBVSR_Ladiva_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Ladiva_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Ladiva_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/47/GBVSR_Ladiva_RagingStrike_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/21/GBVSR_Ladiva_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/db/GBVSR_Ladiva_RagingChain_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Ladiva_RagingChain_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Ladiva_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Ladiva_214U_Hitbox.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ladiva_236M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236H6H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ladiva_236M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236H6HH",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ladiva_236M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Ladiva_236L_Hitbox.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ladiva_236M_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_Ladiva_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/58/GBVSR_Ladiva_236U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Ladiva_236U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "360H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/87/GBVSR_Ladiva_360M_Hitbox.png"
+  ]
+},
+	{
+  "input": "360L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Ladiva_360L_Hitbox.png"
+  ]
+},
+	{
+  "input": "360M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/87/GBVSR_Ladiva_360M_Hitbox.png"
+  ]
+},
+	{
+  "input": "360U",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Ladiva_360U_whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Ladiva_360U_Hitbox.png"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Ladiva_623U_whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/91/GBVSR_Ladiva_623U_Hitbox.png"
+  ]
+},
+	{
+  "input": "j360H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360M_Hitbox.png"
+  ]
+},
+	{
+  "input": "j360L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Ladiva_j360L_Hitbox.png"
+  ]
+},
+	{
+  "input": "j360M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360M_Hitbox.png"
+  ]
+},
+	{
+  "input": "j360U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Ladiva_j360U_whiff.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Ladiva_j360U_Hitbox.png"
+  ]
+},
+	{
+  "input": "214214H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Ladiva_214214H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Ladiva_214214H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Ladiva_236236H_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/71/GBVSR_Ladiva_236236H_Hitbox.png"
+  ]
+},
+	{
+  "input": "720U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Ladiva_720U_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/39/GBVSR_Ladiva_720U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Ladiva_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Ladiva_5U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5UH",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5UL",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5UM",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
+  "hitbox_img": [
+    ""
+  ]
+}
+]

@@ -1,0 +1,396 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Percival_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Percival_2H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/26/GBVSR_Percival_2H_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Percival_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Percival_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVSR_Percival_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Percival_2M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/55/GBVSR_Percival_2M_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Percival_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Percival_2U_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Percival_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Percival_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Percival_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Percival_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Percival_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/58/GBVSR_Percival_cXX6M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Percival_cXX6M_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Percival_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Percival_cH_Hitbox.png"
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Percival_cL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Percival_cL_Hitbox.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/6/65/GBVSR_Percival_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Percival_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Percival_cXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Percival_cXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Percival_cXX6H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Percival_cXX6H_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Percival_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/58/GBVSR_Percival_cXX6M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Percival_cXX6M_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Percival_cXXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/86/GBVSR_Percival_cXXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Percival_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Percival_fH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Percival_fH_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Percival_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Percival_fL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Percival_fL_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Percival_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/82/GBVSR_Percival_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Percival_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Percival_jH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Percival_jH_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVSR_Percival_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Percival_jL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Percival_jL_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Percival_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Percival_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Percival_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Percival_jU_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Percival_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Percival_BraveCounter_Hitbox.png"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Percival_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Percival_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Percival_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Percival_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Percival_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Percival_5MH_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Percival_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/32/GBVSR_Percival_RagingChain_Hitbox.png"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Percival_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214HH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Percival_214X-H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Percival_214XH_Hitbox.png"
+  ]
+},
+	{
+  "input": "214HL",
+  "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Percival_214X-L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Percival_214XL_Hitbox.png"
+  ]
+},
+	{
+  "input": "214HM",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Percival_214X-M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Percival_214XM_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Percival_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214LH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Percival_214X-H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Percival_214XH_Hitbox.png"
+  ]
+},
+	{
+  "input": "214LL",
+  "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Percival_214X-L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Percival_214XL_Hitbox.png"
+  ]
+},
+	{
+  "input": "214LM",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Percival_214X-M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Percival_214XM_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Percival_214X.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "214MH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Percival_214X-H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Percival_214XH_Hitbox.png"
+  ]
+},
+	{
+  "input": "214ML",
+  "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Percival_214X-L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Percival_214XL_Hitbox.png"
+  ]
+},
+	{
+  "input": "214MM",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Percival_214X-M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Percival_214XM_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Percival_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Percival_214U_Hitbox.png"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/2/27/GBVSR_Percival_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Percival_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/2/27/GBVSR_Percival_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Percival_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/2/27/GBVSR_Percival_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Percival_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Percival_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Percival_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVSR_Percival_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Percival_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Percival_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVSR_Percival_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Percival_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Percival_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVSR_Percival_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Percival_236X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Percival_236X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Percival_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/24/GBVSR_Percival_236U_Hitbox.png"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_Percival_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Percival_623H_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_Percival_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Percival_623X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Percival_623X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_Percival_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/47/GBVSR_Percival_623M_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Percival_623M_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Percival_623M_Hitbox_3.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Percival_623U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Percival_623U_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/04/GBVSR_Percival_236236H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Percival_236236H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/32/GBVSR_Percival_236236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Percival_236236U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Percival_236236U_Hitbox2.png",
+    "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Percival_236236U_Hitbox3.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Percival_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Percival_5U_Hitbox.png"
+  ]
+}
+]

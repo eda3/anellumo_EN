@@ -1,0 +1,17 @@
+[
+  {
+    "input": "2H",
+    "move_img": "https://www.dustloop.com/w/File:GBVS_Gran_Throw.png",
+    "hitbox_img": [
+      "https://www.dustloop.com/wiki/images/3/35/GGST_Sol_2D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214H",
+    "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVS_Gran_214L.png",
+    "hitbox_img": [
+      "https://www.dustloop.com/wiki/images/3/35/GGST_Sol_2D_Hitbox.png"
+    ]
+  }
+]
+

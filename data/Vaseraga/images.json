@@ -1,0 +1,367 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVS_Vaseraga_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Vaseraga_2H_Hitbox.jpg"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6a/GBVS_Vaseraga_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Vaseraga_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/96/GBVS_Vaseraga_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/63/GBVSR_Vaseraga_2M_Hitbox.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7e/GBVS_Vaseraga_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Vaseraga_2U_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Vaseraga_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Vaseraga_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Vaseraga_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Vaseraga_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/62/GBVSR_Vaseraga_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Vaseraga_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bb/GBVS_Vaseraga_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Vaseraga_cH_Hitbox.png"
+  ]
+},
+	{
+  "input": "cL",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVS_Vaseraga_cL.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVS_Vaseraga_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Vaseraga_cM_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Vaseraga_cM_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Vaseraga_cXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Vaseraga_cXX6H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Vaseraga_cXX6M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/7/74/GBVSR_Vaseraga_cXXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVS_Vaseraga_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Vaseraga_fH_Hitbox.png"
+  ]
+},
+	{
+  "input": "fL",
+  "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Vaseraga_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/79/GBVSR_Vaseraga_fL_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/e/ea/GBVS_Vaseraga_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Vaseraga_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVS_Vaseraga_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/07/GBVSR_Vaseraga_jH_Hitbox.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVS_Vaseraga_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Vaseraga_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVS_Vaseraga_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Vaseraga_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f1/GBVS_Vaseraga_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Vaseraga_jU_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Vaseraga_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f1/GBVS_Vaseraga_BC_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/d/d4/"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVS_Vaseraga_AirThrow.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Vaseraga_Throw.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Vaseraga_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c9/GBVS_Vaseraga_5MH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/f/f8/GBVS_Vaseraga_5MH_Hitbox_2."
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Vaseraga_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1a/GBVS_Vaseraga_6MH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/d/d4/"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Vaseraga_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Vaseraga_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Vaseraga_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/85/GBVSR_Vaseraga_214U_Hitbox.png"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Vaseraga_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Vaseraga_22U_Hitbox.png"
+  ]
+},
+	{
+  "input": "22X44/G",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22X6",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "22XH",
+  "move_img": "https://www.dustloop.com/wiki/images/6/67/GBVS_Vaseraga_22X-H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/15/GBVSR_Vaseraga_22X-H_Hitbox.png"
+  ]
+},
+	{
+  "input": "22XL",
+  "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVS_Vaseraga_22X-L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Vaseraga_22X-L_Hitbox.png"
+  ]
+},
+	{
+  "input": "22XM",
+  "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVS_Vaseraga_22X-M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/36/GBVSR_Vaseraga_22X-M_Hitbox.png"
+  ]
+},
+	{
+  "input": "22XU",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVS_Vaseraga_22X-U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Vaseraga_22X-U_Hitbox.png"
+  ]
+},
+	{
+  "input": "632146H",
+  "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
+  ]
+},
+	{
+  "input": "632146L",
+  "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
+  ]
+},
+	{
+  "input": "632146M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
+  ]
+},
+	{
+  "input": "632146U",
+  "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Vaseraga_632146U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/49/GBVSR_Vaseraga_632146U_Hitbox.png"
+  ]
+},
+	{
+  "input": "[4]6H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Vaseraga_46L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Vaseraga_46M_Hitbox.png"
+  ]
+},
+	{
+  "input": "[4]6L",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Vaseraga_46L_Hitbox.png"
+  ]
+},
+	{
+  "input": "[4]6M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Vaseraga_46M_Hitbox.png"
+  ]
+},
+	{
+  "input": "[4]6U",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Vaseraga_46U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Vaseraga_46U_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVS_Vaseraga_236236H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/de/GBVSR_Vaseraga_236236H_Hitbox.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/14/GBVS_Vaseraga_236236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Vaseraga_236236U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/82/GBVS_Vaseraga_236236U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVS_Vaseraga_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Vaseraga_5U_Hitbox.png"
+  ]
+}
+]

@@ -1,0 +1,365 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/16/GBVSR_Versusia_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Versusia_2H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/25/GBVSR_Versusia_2H_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Versusia_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Versusia_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Versusia_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Versusia_2M_Hitbox.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Versusia_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/33/GBVSR_Versusia_2U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Versusia_2U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "5L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Versusia_5L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Versusia_5L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_Versusia_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Versusia_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Versusia_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Versusia_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Versusia_cXX6H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Versusia_cXX6H_Hitbox.png"
+  ]
+},
+	{
+  "input": "cH",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Versusia_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Versusia_cH_Hitbox.png"
+  ]
+},
+	{
+  "input": "cM",
+  "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Versusia_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Versusia_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX",
+  "move_img": "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Versusia_cXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/38/GBVSR_Versusia_cXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Versusia_cXX6H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/51/GBVSR_Versusia_cXX6H_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Versusia_cXX6M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Versusia_cXX6M_Hitbox.png"
+  ]
+},
+	{
+  "input": "cXXX",
+  "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_Versusia_cXXX.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Versusia_cXXX_Hitbox.png"
+  ]
+},
+	{
+  "input": "fH",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Versusia_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Versusia_fH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Versusia_fH_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "fH~H",
+  "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Versusia_fH_H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/55/GBVSR_Versusia_fH_H_Hitbox.png"
+  ]
+},
+	{
+  "input": "fM",
+  "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Versusia_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Versusia_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jH",
+  "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Versusia_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Versusia_jH_Hitbox.png"
+  ]
+},
+	{
+  "input": "jL",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Versusia_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Versusia_jL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Versusia_jL_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "jM",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Versusia_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Versusia_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "jU",
+  "move_img": "https://www.dustloop.com/wiki/images/4/45/GBVSR_Versusia_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Versusia_jU_Hitbox.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Versusia_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/11/GBVSR_Versusia_BraveCounter_Hitbox.png"
+  ]
+},
+	{
+  "input": "jLU",
+  "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Versusia_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Versusia_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "LU",
+  "move_img": "https://www.dustloop.com/wiki/images/8/87/GBVSR_Versusia_Throw.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Versusia_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Versusia_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Versusia_RagingStrike_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Versusia_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Versusia_RagingChain_Hitbox.png"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Versusia_214L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Versusia_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Versusia_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Versusia_214L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Versusia_214L_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bb/GBVSR_Versusia_214M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Versusia_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Versusia_214U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Versusia_214U_Hitbox.png"
+  ]
+},
+	{
+  "input": "214X~U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Versusia_214X_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Versusia_214X_5U_Hitbox.png"
+  ]
+},
+	{
+  "input": "22H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_22X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22L",
+  "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_22X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_22X_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22U",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Versusia_22U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Versusia_22U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Versusia_22U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22X~U",
+  "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Versusia_22X_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/20/GBVSR_Versusia_22X_5U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/9/94/GBVSR_Versusia_22X_5U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Versusia_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Versusia_236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Versusia_236U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236X~U",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Versusia_236X_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Versusia_236X_5U_Hitbox.png"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Versusia_623H_Hitbox.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Versusia_623L_Hitbox.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Versusia_623M_Hitbox.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_623U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Versusia_623U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Versusia_623U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "623X~U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Versusia_623X_5U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Versusia_236236H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Versusia_236236H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Versusia_236236H_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/9/99/GBVSR_Versusia_236236U_Start.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Versusia_236236U_Hitbox.png"
+  ]
+},
+	{
+  "input": "5U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_5U_2_Hitbox.png"
+  ]
+},
+	{
+  "input": "5U~U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_5U_2_Hitbox.png"
+  ]
+}
+]
