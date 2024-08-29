@@ -1,2 +1,2 @@
 # anellumo
-GBVSR用フレーム検索Bot
+Frame Search Discord Bot for GBVSR
